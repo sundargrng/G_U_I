@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=vehicleId\ vehicleName\ vehicleColor\ vehicleWeight
+comment1.target=Vehicle(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Vehicle\ method\ is\ a\ constructor\ method\ that\ initializes\ the\ value\ of\ private\ variables\ vehicleId,\ vehicleName,\ vehicleColor,\ and\ vehicleWeight\r\n\ by\ using\ "this."\ keyword.\r\n
+comment2.params=
+comment2.target=int\ getVehicleId()
+comment3.params=
+comment3.target=java.lang.String\ getVehicleName()
+comment4.params=
+comment4.target=java.lang.String\ getVehicleColor()
+comment5.params=
+comment5.target=java.lang.String\ getVehicleWeight()
+comment6.params=
+comment6.target=java.lang.String\ getVehicleSpeed()
+comment7.params=vehicleSpeed
+comment7.target=void\ setVehicleSpeed(java.lang.String)
+comment8.params=vehicleColor
+comment8.target=void\ setVehicleColor(java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+comment9.text=\r\nDisplay\ method\ is\ called\ when\ the\ details\ of\ the\ vehicle\ needs\ to\ be\ shown.\ If\ the\ vehicle\ weight\ is\ not\ set\ the\ ".isBlank()"\ instance\ method\ returns\ boolean\ value\ false\ allowing\ the\r\nelse\ block\ of\ code\ to\ run.\ Similarly,\ if\ the\ vehicle\ weight\ is\ set\ the\ if\ block\ of\ code\ will\ run.\r\n
+numComments=10
